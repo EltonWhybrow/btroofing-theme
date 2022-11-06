@@ -20,7 +20,7 @@ wp-content/plugins/wps-menu-exporter
 
 # ignore specific themes
 wp-content/themes/onepress
-!wp-content/themes/btroofing-child/*
+!wp-content/themes
 
 # ignore specific files/folders within the theme
 wp-content/themes/btroofing-child/.idea
