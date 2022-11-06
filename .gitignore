@@ -1,0 +1,55 @@
+# ignore everything in the root except the "wp-content" directory.
+# !wp-content/
+/wp-admin
+/wp-includes
+wp-*.php
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+wp-content/*
+!wp-content/mu-plugins/
+wp-content/plugins/
+
+# ignore these plugins
+wp-content/plugins/classic-editor/
+wp-content/plugins/contact-form-7
+wp-content/plugins/lightbox-photoswipe
+wp-content/plugins/widget-google-reviews
+wp-content/plugins/wordpress-seo/
+wp-content/plugins/wps-menu-exporter
+
+# ignore specific themes
+wp-content/themes/onepress
+!wp-content/themes/btroofing-child/*
+
+# ignore specific files/folders within the theme
+wp-content/themes/btroofing-child/.idea
+wp-content/themes/btroofing-child/.vscode
+wp-content/themes/btroofing-child/build/mix-manifest.json
+wp-content/themes/btroofing-child/build
+wp-content/themes/btroofing-child/local.json
+
+
+# ignore specific files/folders misc
+/index.php
+xmlrpc.php
+license.txt
+readme.html
+sitemap.xml
+db-config.php
+sitemap.xml.gz
+wp-config.php
+wp-config-hosting.php
+.htaccess
+.DS_Store
+
+# ignore log files and databases
+~log.txt
+*.log
+*.sql
+*.sqlite
+
+# ignore editor
+*.history/
+
+
