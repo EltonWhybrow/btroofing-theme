@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+sitemap: https://btroofingservices.co.uk/sitemap.xml
