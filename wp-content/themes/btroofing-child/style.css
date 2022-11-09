@@ -115,6 +115,10 @@ pre {
 	text-align: center;
 }
 
+.wpcf7-form {
+	font-size: 14px !important;
+}
+
 /* 
 #energy-quote form .form-input {
 	width: 100%;
