@@ -1,0 +1,132 @@
+/*
+Theme Name:     BT Roofing Services - Child Theme
+Theme URI:      
+Author:         Elton Whybrow
+Author URI:     http://widesign.co.uk
+Template:     	onepress
+Description:  	This is a child theme bt roofing services
+Version:      	1.0.0
+License:      	GNU General Public License v2 or later
+License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  	twentytwenty
+Tags:         	black, white, light, two-columns, left-sidebar, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready
+
+FontAwesome License: SIL Open Font License - http://scripts.sil.org/OFL
+Images License: GNU General Public License v2 or later
+*/
+/*
+ * Add your own custom css below this text.
+ */
+
+/* h2.hero-large-text {
+	color: #0033cc;
+} */
+
+
+.hero__content {
+	padding: 0 8px;
+}
+
+.section-title-area .section-subtitle {
+	color: #666;
+}
+
+.site-header,
+.section-meta {
+	background-color: #bfbfbf;
+}
+
+.site-branding .no-logo-img.has-desc {
+	line-height: 50px;
+}
+
+.site-branding .site-title,
+.site-branding .site-text-logo {
+	font-size: 20px;
+	line-height: 2;
+}
+
+.site-branding .site-text-logo:focus {
+	text-decoration: none;
+}
+
+#page .site-branding .site-description {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.site-branding .site-text-logo {
+	border-bottom: 1px solid black;
+}
+
+.site-branding .no-logo-img.has-desc .site-description {
+	font-size: 14px;
+}
+
+blockquote,
+.entry-content blockquote {
+	padding: 25px;
+	position: relative;
+	background: #f8f9f9;
+	border-left: 13px solid #a94442;
+	font-style: italic;
+}
+
+.section-contact .address-contact {
+	font-size: 1.4rem;
+}
+
+.address-box h3 {
+	margin-bottom: 1.2rem;
+}
+
+.breadcrumbs a:before,
+.breadcrumbs a:after {
+	display: none;
+}
+
+pre {
+	padding: 15px !important;
+	color: darkslategray;
+}
+
+
+/* Landing Page */
+#landing-page .flipInX {
+	background-color: black;
+	border-radius: 20px;
+	padding: 8px;
+}
+
+#landing-page .hero-small-text p {
+	font-size: 2rem;
+	font-style: normal;
+	font-weight: 300;
+}
+
+#landing-page .section-title-area {
+	padding-top: 4rem;
+}
+
+#landing-page .section-desc {
+	text-align: center;
+}
+#energy-quote form {
+	text-align: center;
+}
+
+.wpcf7-form {
+	font-size: 14px !important;
+}
+
+/* 
+#energy-quote form .form-input {
+	width: 100%;
+}
+
+@media screen and (min-width: 568px){
+	#energy-quote form p {
+		width: 49%;
+		display: inline-block
+	}
+} */

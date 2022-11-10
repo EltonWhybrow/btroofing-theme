@@ -29,7 +29,7 @@ jobs:
           ls
           cd wp-content/themes/btroofing-child/
           ls
-          echo '>>>> remove stuff'
+          echo '>>>> remove stuffy'
           echo '>>>> AFTER REMOVE stuff'                                            
           ls
           echo '>>>> BACK UP TO ROOT' 
