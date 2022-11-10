@@ -26,7 +26,7 @@ get_header(); ?>
 			<div class="section-desc extra-smooth">
 				<p>We install certain energy efficiency products at <span style="background-color: #0033cc; font-weight: 500; padding: 2px 5px; color: white;">0% VAT on insulation and installation</span> - we specialize in roof insulation and if you were considering making some changes to reduce those rising energy bills, now could be the time!</p>
 				<p style="padding:1rem 0rem; text-align: center">
-					<a href="zero-vat-energy-efficiency-savings" class="btn btn-theme-primary btn-md">Find out more</a>
+					<a href="/energy-saving-insulation-products" class="btn btn-theme-primary btn-md">Find out more</a>
 				</p>
 			</div>
 		</div>
