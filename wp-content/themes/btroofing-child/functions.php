@@ -51,7 +51,3 @@ remove_theme_support('widgets-block-editor');
 		 * Remove default posts and comments RSS feed links to head.
 		 */
 remove_theme_support('automatic-feed-links');
-
-@ini_set( 'upload_max_size' , '64M' );
-@ini_set( 'post_max_size', '64M');
-@ini_set( 'max_execution_time', '300' );

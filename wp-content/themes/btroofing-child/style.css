@@ -119,14 +119,8 @@ pre {
 	font-size: 14px !important;
 }
 
-/* 
-#energy-quote form .form-input {
-	width: 100%;
-}
-
-@media screen and (min-width: 568px){
-	#energy-quote form p {
-		width: 49%;
-		display: inline-block
+@media screen and (max-width: 568px){
+	.hide-mobile {
+		display: none;
 	}
-} */
+} 
